@@ -130,9 +130,9 @@ public class StatSim {
                         "Results",
                         JOptionPane.DEFAULT_OPTION,
                         JOptionPane.QUESTION_MESSAGE,
-                        null, // No custom icon
-                        options, // Custom button labels
-                        options[0] // Default selected option
+                        null,
+                        options,
+                        options[0]
                 );
 
                 // rerun simulation with same inputs
